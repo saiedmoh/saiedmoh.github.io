@@ -45,7 +45,7 @@
 						<nav id="nav">
 
 							<ul>
-								<li><a href="home.html" id="top-link" class="active"><span class="icon fa-home">Home</span></a></li>
+								<li><a href="index.md" id="top-link" class="active"><span class="icon fa-home">Home</span></a></li>
 								<!--<li><a href="research.html" id="contact-link" class="skel-layers-ignoreHref"><span class="icon fa-envelope">Research</span></a></li>-->
 								<li><a href="research.html" id="contact-link" class="skel-layers-ignoreHref"><span class="fa fa-bar-chart" aria-hidden="true">Research</span></a></li>
 								<li><a href="publications.html" id="portfolio-link" class="skel-layers-ignoreHref"><span class="fa fa-book">Publications</span></a></li>
